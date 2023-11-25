@@ -1,4 +1,4 @@
 # AutoScroller
-Auto scrolling container that allows to place the view into a more compact area. Designed for [U++](https://www.ultimatepp.org/) platform.
+Контейнер с автоматической промоткой, позволяющий помещать видимую область в более компактной зоне. Разработано для платформ [U++](https://www.ultimatepp.org/) и Динрус.
 
-The original author of this package was Konstantin Hartwich (kohait00). The package was moved from legacy bazaar project.
+Ориганальным автором этого пакета был Константин Хартвич (Konstantin Hartwich (kohait00)).
